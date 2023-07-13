@@ -1,6 +1,6 @@
 using System;
 
-class Candidate
+public class Candidate
 {
     int id;
     string name;
